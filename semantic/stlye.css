@@ -1,0 +1,36 @@
+.ul01:hover{
+ text-decoration: underline 2px red;
+}
+.ul02:hover{
+    text-decoration: underline 2px red;
+   }
+.ul03:hover{
+    text-decoration: underline 2px red;
+   }
+.ul01 {
+    float: right;
+    display: flex;
+}
+.ul02 {
+    float: right;
+    display: flex;
+}
+.ul03 {
+    float: right;
+    display: flex;
+}
+img{
+    border-radius: 50%;
+    float: right;
+}
+.ft02{
+    float: left;
+    margin: 6rem 1rem 0rem 0rem;
+}
+.nog{
+    color: blueviolet;
+}
+.atc01{
+    border-radius: 40%;
+    margin: 2rem 1rem 0rem 0rem;
+}
