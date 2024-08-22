@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    background-image: url('p8.jpg');
+    margin: 0;
+    padding: 0;
+}
+ 
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #cbe6cc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+ 
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+ 
+.header img {
+    width: 500px;
+}
+ 
+.login-option {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+ 
+.login-option div {
+    text-align: center;
+}
+ 
+.login-option img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+ 
+.login-text {
+    text-align: center;
+    margin-top: 20px;
+}
+ 
+.login-text img {
+    width: 200px;
+}
+ 
+.button {
+    display: block;
+    text-decoration: none;
+    color: #1a1919;
+    background-color: #e93a3a;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s;
+}
