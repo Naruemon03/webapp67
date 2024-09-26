@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table, td, th {
+    border: 1px solid rgb(19, 12, 12);
+    text-align: center;    
+    padding: 30px;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;     
+    margin-left: auto;
+    margin-right: auto;
+
+}
+th {
+    height: 50px;
+    background-color: #664343;
+    color:whitesmoke;
+ 
+}
+body{
+    background-color: #FFF0D1;
+    color: #3B3030;
+    text-align: center;
+    padding: 5px;
+    margin: 1rem;
+}
+tr:hover{
+    background-color:#795757;
+    color: whitesmoke;
+
+}
+button{
+    background-color: #B17457;
+    border: 0px;
+    padding: 6px 18px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+button:hover{
+    background-color: #972510;
+    border: 0px;
+    padding: 10px;
+    color: rgb(241, 239, 236);
+}
+.button {
+    transition-duration: 1s;
+}
+.a{
+    background-color: #AAB396;
+    border: 0px;
+    padding: 6px 18px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a:hover{
+    background-color: #3B3030;
+    border: 0px;
+    padding: 10px;
+    color: rgb(240, 238, 236);
+}
+form {
+    background-color: #D8D2C2;
+    padding: 60px;
+    border-radius: 100px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+
+}
+input{
+    width: 100%;
+}
